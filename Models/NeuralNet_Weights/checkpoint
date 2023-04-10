@@ -1,0 +1,2 @@
+model_checkpoint_path: "NeuralNetwork_Model_Weights.ckpt"
+all_model_checkpoint_paths: "NeuralNetwork_Model_Weights.ckpt"

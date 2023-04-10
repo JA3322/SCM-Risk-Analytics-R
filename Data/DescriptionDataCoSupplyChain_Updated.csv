@@ -1,0 +1,54 @@
+FIELDS,Name,DESCRIPTION
+Type,Type,Type of transaction made
+Days.for.shipping..real.,Days for shipping (real)     ,Actual shipping days of the purchased product
+Days.for.shipment..scheduled.,Days for shipment (scheduled),Days of scheduled delivery of the purchased product
+Benefit.per.order,Benefit per order,Earnings per order placed
+Sales.per.customer,Sales per customer,Total sales per customer made per customer
+Delivery.Status,Delivery Status,Delivery status of orders
+Late_delivery_risk,Late_delivery_risk           ,Risk of Delivering Late
+Category.Id,Category Id,Product category code
+Category.Name,Category Name,Description of the product category
+Customer.City,Customer City,City where the customer made the purchase
+Customer.Country,Customer Country,Country where the customer made the purchase
+Customer.Email,Customer Email,Customer's email
+Customer.Fname,Customer Fname,Customer name
+Customer.Id,Customer Id,Customer ID
+Customer.Lname,Customer Lname,Customer lastname
+Customer.Password,Customer Password,Masked customer key
+Customer.Segment,Customer Segment,Types of Customers
+Customer.State,Customer State,State to which the store where the purchase is registered belongs
+Customer.Street,Customer Street,Street to which the store where the purchase is registered belongs
+Customer.Zipcode,Customer Zipcode,Customer Zipcode
+Department.Id,Department Id,Department code of store
+Department.Name,Department Name,Department name of store
+Latitude,Latitude,Latitude corresponding to location of store
+Longitude,Longitude,Longitude corresponding to location of store
+Market,Market,Market to where the order is delivered
+Order.City,Order City,Destination city of the order
+Order.Country,Order Country,Destination country of the order
+Order.Customer.Id,Order Customer Id,Customer order code
+order.date..DateOrders.,order date (DateOrders),Date on which the order is made
+Order.Id,Order Id,Order code
+Order.Item.Cardprod.Id,Order Item Cardprod Id,Product code generated through the RFID reader
+Order.Item.Discount,Order Item Discount,Order item discount value
+Order.Item.Discount.Rate,Order Item Discount Rate     ,Order item discount percentage
+Order.Item.Id,Order Item Id,Order item code
+Order.Item.Product.Price,Order Item Product Price     ,Price of products without discount
+Order.Item.Profit.Ratio,Order Item Profit Ratio,Order Item Profit Ratio
+Order.Item.Quantity,Order Item Quantity,Number of products per order
+Sales,Sales,Value in sales
+Order.Item.Total,Order Item Total  ,Total amount per order
+Order.Profit.Per.Order,Order Profit Per Order,Order Profit Per Order
+Order.Region,Order Region,Region of the world where the order is delivered
+Order.State,Order State,State of the region where the order is delivered
+Order.Status,Order Status,Order Status
+Order.Zipcode,, 
+Product.Card.Id,Product Card Id,Product code
+Product.Category.Id,Product Category Id,Product category code
+Product.Description,Product Description,Product Description
+Product.Image,Product Image,Link of visit and purchase of the product
+Product.Name,Product Name,Product Name
+Product.Price,Product Price,Product Price
+Product.Status,Product Status,Status of the product stock
+shipping.date..DateOrders.,Shipping date (DateOrders)   ,Exact date and time of shipment
+Shipping.Mode,Shipping Mode,Shipping modes
